@@ -4,3 +4,15 @@ body {
 body {
     color: lightpink;
 }
+a:link {
+    color: pink;
+}
+a:visited {
+    color: lightgreen
+}
+a:hover {
+    color: darksalmon
+}
+a:active {
+    color: yellow
+}
